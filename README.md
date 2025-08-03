@@ -68,7 +68,8 @@ README.md               # This file
 
 ## 📸 Screenshot
 
-*(Optional: Add a screenshot of the GUI here)*
+<img width="600" height="634" alt="Screenshot 2025-08-03 100302" src="https://github.com/user-attachments/assets/dda8f753-0c65-4a49-b995-8bdb7985941f" />
+
 
 ---
 
