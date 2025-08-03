@@ -38,7 +38,7 @@ pip install opencv-python Pillow
 1. **Run the script**:
 
    ```bash
-   python timelapse_gui.py
+   python Video_Timelapse_Generator.py
    ```
 
 2. **Select a video file** using the "Browse" button.
@@ -60,7 +60,7 @@ pip install opencv-python Pillow
 ## 🧩 File Structure
 
 ```
-timelapse_gui.py        # Main GUI script (this file)
+Video_Timelapse_Generator.py        # Main GUI script (this file)
 README.md               # This file
 ```
 
